@@ -1,0 +1,9 @@
+C:\Users\Lilia\documents\visual studio 2010\Projects\CheckTheWordDocument\CheckTheWordDocument\bin\Release\CheckTheWordDocument.exe
+C:\Users\Lilia\documents\visual studio 2010\Projects\CheckTheWordDocument\CheckTheWordDocument\bin\Release\CheckTheWordDocument.pdb
+C:\Users\Lilia\documents\visual studio 2010\Projects\CheckTheWordDocument\CheckTheWordDocument\obj\x86\Release\CheckTheWordDocument.csprojResolveAssemblyReference.cache
+C:\Users\Lilia\documents\visual studio 2010\Projects\CheckTheWordDocument\CheckTheWordDocument\obj\x86\Release\CheckTheWordDocument.csproj.ResolveComReference.cache
+C:\Users\Lilia\documents\visual studio 2010\Projects\CheckTheWordDocument\CheckTheWordDocument\obj\x86\Release\CheckTheWordDocument.Form1.resources
+C:\Users\Lilia\documents\visual studio 2010\Projects\CheckTheWordDocument\CheckTheWordDocument\obj\x86\Release\CheckTheWordDocument.Properties.Resources.resources
+C:\Users\Lilia\documents\visual studio 2010\Projects\CheckTheWordDocument\CheckTheWordDocument\obj\x86\Release\CheckTheWordDocument.csproj.GenerateResource.Cache
+C:\Users\Lilia\documents\visual studio 2010\Projects\CheckTheWordDocument\CheckTheWordDocument\obj\x86\Release\CheckTheWordDocument.exe
+C:\Users\Lilia\documents\visual studio 2010\Projects\CheckTheWordDocument\CheckTheWordDocument\obj\x86\Release\CheckTheWordDocument.pdb
